@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelBias.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelBias.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.pdb
