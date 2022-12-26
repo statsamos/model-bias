@@ -2,3 +2,9 @@ C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelBias.dll
 C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos-ModelBias.pdb
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.dll
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos-ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.pdb
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos-ModelBias.dll
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos-ModelBias.pdb
+C:\Users\squar\source\statsamos\ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.vbproj.AssemblyReference.cache
+C:\Users\squar\source\statsamos\ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.vbproj.CoreCompileInputs.cache
+C:\Users\squar\source\statsamos\ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.dll
+C:\Users\squar\source\statsamos\ModelBias\Amos-ModelBias\obj\Debug\Amos-ModelBias.pdb
